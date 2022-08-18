@@ -1,5 +1,5 @@
 let form = document.querySelector(".form");
-let input = document.querySelector(".masofa");
+let input = document.querySelector("#masofa");
 let paragraphWalk = document.querySelector(".walk");
 let paragraphBike = document.querySelector(".bike");
 let paragraphCar = document.querySelector(".car");
